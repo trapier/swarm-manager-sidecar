@@ -11,9 +11,9 @@ auto-injected nginx sidecar proxy for ucp-swarm-manager, configured to change 50
 ## Deploy
 build, push and deploy service:
 
-    ```
-    ./deploy.sh  buildpush
-    ```
+```
+./deploy.sh  buildpush
+```
 
 ## Undeploy
 
